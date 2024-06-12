@@ -10,4 +10,4 @@ Cellular Automaton (automaton.s): Responsible for generating random bits used in
 Rock Paper Scissors Logic (rps.s): Implements the game logic, including player moves, determining winners, and displaying results.
 
 Testing:
-You can check the implementation by running the provided run_tests script. It executes your code against test cases stored in the tests/ directory. Each test comprises two files: {testname}.s (main program) and {testname}.ref (expected output).
+You can test the implementation by running the provided run_tests script. It executes your code against test cases stored in the tests/ directory. Each test comprises two files: {testname}.s (main program) and {testname}.ref (expected output).
